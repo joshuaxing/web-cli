@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-demo/./src/style.css"],"names":[],"mappings":"AAAA,OACE,aAAe,CACf,qBACF","file":"public/css/app.e90e31ec.css","sourcesContent":[".hello {\r\n  color: deeppink;\r\n  background-color: gold;\r\n}"],"sourceRoot":""}

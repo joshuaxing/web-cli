@@ -1,0 +1,10 @@
+.color {
+  color: yellow;
+  display: flex;
+}
+::placeholder {
+  color: gray;
+}
+.wrapper {
+  font-size: 30px;
+}

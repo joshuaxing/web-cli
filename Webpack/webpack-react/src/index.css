@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    position: relative;
+}
+.wrapper {
+    font-size: 14px;
+    color: pink;
+  }

@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_demo=self.webpackChunkwebpack_demo||[]).push([[143],{24:(e,n,t)=>{"use strict";var c,d,o=t(486),l=t.n(o);console.log((function(e){return e*e*e})),document.body.appendChild(((c=document.createElement("div")).innerHTML=l().join(["Hello","webpack888"]," "),c.classList.add("hello"),c)),document.body.appendChild(((d=document.createElement("input")).type="text",d))}},0,[[24,666,998]]]);
+//# sourceMappingURL=app.3d01766743e6d057b96f.js.map
